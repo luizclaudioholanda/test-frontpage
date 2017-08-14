@@ -30,7 +30,8 @@ class Header extends Component {
         <span className="sideopen" onClick={this.openNavMenu}>&#9776;</span>
         <div id="mySidenav" className="sidenav">
             <a href="javascript:void(0)" className="closebtn" onClick={this.closeNavMenu}>&times;</a>
-            <a href="#">Docs</a>
+            <a href="#">Home</a>
+            <Link to="/Docs">Docs</Link>
             <Link to="/ErrorPage">ErrorPage</Link>
             <Link to="/TroubleShootingPage">TroubleShooting</Link>
         </div>

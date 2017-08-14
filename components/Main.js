@@ -8,7 +8,7 @@ class Main extends Component {
 
 					<header className="major">
 						<h2>Welcome to Back4App Docs</h2>
-						<p>Why should use Back4App</p>
+						<p>Why should use Back4App?</p>
 					</header>
 
 						<section>
